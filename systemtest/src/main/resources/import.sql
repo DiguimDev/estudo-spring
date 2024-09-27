@@ -6,3 +6,4 @@ INSERT INTO tb_participante(id, nome, email) VALUES (5, 'Hercules', 'Shumatsu@gm
 INSERT INTO tb_participante(id, nome, email) VALUES (6, 'Symo Hayha', 'Whitedead@gmail.com');
 
 INSERT INTO tb_categoria(id, descricao) VALUES (1, 'Categoria de programação');
+INSERT INTO tb_categoria(id, descricao) VALUES (2, 'Categoria de Jogos');
